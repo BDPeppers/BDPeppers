@@ -6,6 +6,6 @@
 
 🌱 Always Learning: Frontend Architecture, Modern Web Frameworks, and UI/UX Design Trends
 
-💻 Here, you'll find a mix of projects and experiments
+💻 Here, you'll find a mix of my code projects and experiments
 
 
